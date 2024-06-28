@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix PIL show() and save() (#8202)
